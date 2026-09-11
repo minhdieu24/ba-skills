@@ -1,0 +1,9 @@
+{
+  "name": "ba-skills",
+  "description": "Skill BA cho Kafi. Hiện có: pm-task — tạo/sửa/tra cứu task lẻ trên PM Tool (kai-foundry.kafisc.vn) qua MCP kafi-pm. Yêu cầu người cài đã cấu hình MCP kafi-pm.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nguyen Thi Minh Dieu",
+    "email": "dieu.nguyen1@kafi.vn"
+  }
+}

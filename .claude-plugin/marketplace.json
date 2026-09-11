@@ -1,0 +1,20 @@
+{
+  "name": "ba-skills",
+  "description": "Bộ skill cá nhân cho công việc BA tại Kafi: thao tác PM Tool, và các skill BA khác bổ sung dần.",
+  "owner": {
+    "name": "Nguyen Thi Minh Dieu",
+    "email": "dieu.nguyen1@kafi.vn"
+  },
+  "plugins": [
+    {
+      "name": "ba-skills",
+      "description": "Skill BA cho Kafi. Hiện có: pm-task (tạo/sửa/tra cứu task lẻ trên PM Tool qua MCP kafi-pm). Yêu cầu: MCP kafi-pm đã cấu hình.",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "Nguyen Thi Minh Dieu",
+        "email": "dieu.nguyen1@kafi.vn"
+      }
+    }
+  ]
+}
